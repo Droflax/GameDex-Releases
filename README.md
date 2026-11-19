@@ -5,7 +5,7 @@
 **Tu biblioteca de juegos local, con seguimiento de horas automático**
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)]()
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](../../releases)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue)](../../releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 [Descargar](../../releases) • [itch.io](https://droflax.itch.io/gamedex) • [Apoyar el proyecto](https://ko-fi.com/droflax)
@@ -23,8 +23,8 @@ Ve a [Releases](../../releases) y elige:
 
 | Archivo | Qué es |
 |---|---|
-| `GameDex-1.0.0-Setup.exe` | Instalador por usuario (no pide administrador) |
-| `GameDex-1.0.0-portable-win-x64.zip` | Portable: descomprimir y ejecutar |
+| `GameDex-1.0.1-Setup.exe` | Instalador por usuario (no pide administrador) |
+| `GameDex-1.0.1-portable-win-x64.zip` | Portable: descomprimir y ejecutar |
 
 ## Qué es GameDex
 
